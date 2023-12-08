@@ -1,0 +1,11 @@
+:root {
+    --mayaBlue: #73C2FB;
+    --mayaComp: #5199b0;
+    --mayaLight: #dcf7ff;
+    --mayaCompLight: #fbb173;
+    --mayaCompDark: #b07c51;
+}
+
+* {
+    background-color: var(--mayaBlue);
+}
